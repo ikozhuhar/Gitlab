@@ -4,7 +4,7 @@
 # https://stepik.org/learn
 ```
 
-#### Настройка конфигураций Git
+:white_check_mark: _<a name='#'> Настройка конфигураций Git</a>
 
 ```ruby
 git config --global --list
