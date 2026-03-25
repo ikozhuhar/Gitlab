@@ -1,6 +1,6 @@
 ###  Gitlab
 
-<img width="1432" height="893" alt="image" src="https://github.com/user-attachments/assets/40c9b8d1-2e9c-41c6-993d-3b0d8deb8bc0" />
+<img width="1014" height="521" alt="image" src="https://github.com/user-attachments/assets/548a427b-9ed8-4e14-ab16-178eb0d04272" />
 
 ```ruby
 # https://stepik.org/learn
